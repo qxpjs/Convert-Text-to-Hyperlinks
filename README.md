@@ -1,10 +1,10 @@
 ![QuarkXPress 2018 logo](http://www.quarkforums.com/resources/git/githeader.jpg)
 # Convert Text to Hyperlinks
-This script searches for hyperlink text in the Layout, and converts it to QuarkXPress hyperlinks.
-
+This JavaScript needs to be installed in QuarkXPress 2018. Feel free to modify this script to your own needs.  
 **Please see here on how to install: [**Installation Instructions**](#howinstall)**
+
 ## What it does
-A JavaScript that applies a number of columns and gutter width to the selected text box.
+This script searches for hyperlink text in the Layout, and converts it to QuarkXPress hyperlinks.
 
 ### Prerequisites  
 You may configure the options to decide whether Mails, URLs, IPs and Files need to be processed.
